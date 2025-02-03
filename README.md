@@ -1,0 +1,1 @@
+- Learning about dimensionality reduction with neural network
